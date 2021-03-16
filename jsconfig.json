@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src"
+    },
+    "include": ["src"],
+    "paths": {
+      "assets/*": [
+        "assets/*"
+      ],
+      "components/*": [
+        "components/*"
+      ],
+      "helpers/*": [
+        "helpers/*"
+      ],
+      "routers/*": [
+        "routers/*"
+      ],
+      "screens/*": [
+        "screens/*"
+      ],
+      "utils/*": [
+        "utils/*"
+      ],
+      "shared/*": [
+        "shared/*"
+      ]
+    }
+  }
+  
